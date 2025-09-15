@@ -77,7 +77,7 @@ A custom-built interactive data visualization tool that allows users to analyze 
     <img src="https://img.youtube.com/vi/intNARrkcDM/0.jpg"
          alt="Watch the demo"
          width="640"
-         height="360">
+         height="1000">
   </a>
 </p>
 
